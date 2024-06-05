@@ -1,1 +1,1 @@
-This is a simple prtfolio website made using HTML, CSS and JS
+This is a simple portfolio website made using HTML, CSS and JS
